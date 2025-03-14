@@ -26,4 +26,4 @@ Each portfolio is available as a PDF file, offering insights into my role, respo
 📬 Connect with Me
 Interested in discussing career opportunities, marketing strategies, or business development? Let’s connect!
 
-[[🔗 LinkedIn Profile]](https://www.linkedin.com/in/jesusgermain/)  [[📧 E-Mail]](jesus.germain@gmail.com)
+[[🔗 LinkedIn Profile]](https://www.linkedin.com/in/jesusgermain/)  [[📧 E-Mail]](@jesus.germain@gmail.com)
