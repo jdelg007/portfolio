@@ -1,29 +1,28 @@
-📂 Welcome to My Professional Portfolio
+📂 Professional Portfolio | Jesus Delgado
 
-Hi, I’m Jesus, a marketing professional with experience in digital marketing, SEO, branding, e-commerce, and business operations. 
-My GitHub serves as a hub for my professional portfolio, showcasing my work across various industries, including e-commerce, media, clinical research, and hospitality.
+Welcome to my professional portfolio repository. This space showcases my experience across digital marketing, operations, analytics, and business development, with a focus on measurable impact, efficiency, and strategic growth.
 
-📌 Portfolio Documents
-Each PDF portfolio provides a detailed overview of my contributions, achievements, and the impact I made at each company.
+📁 Portfolio Overview
+Each PDF provides a structured overview of my contributions, outcomes, and project results from key roles across multiple industries:
+• Unlimited Wheels – Led eCommerce operations and automated business processes using Excel and VBA.
+• Santa Ana Wheel – Managed digital marketing, optimized product listings, and drove web engagement through blog and social strategy.
+• Advanced Research Center – Oversaw website management, executed a 200+ person grand opening, and developed brand materials.
+• Panaderia Tio Ale – Managed business operations, financial tracking, and local marketing strategy for a family-run bakery.
+• Entrepreneur Media, Inc. – Supported national marketing campaigns, co-authored intern documentation, and contributed to outreach initiatives.
 
-📁 Available Portfolios:
-Unlimited Wheels – E-commerce operations, SEO, and business automation.
-Santa Ana Wheel – Digital marketing, social media growth, and e-commerce optimization.
-Advanced Research Center – Website management, event coordination, and branding.
-Panaderia Tio Ale – Business operations, financial management, and in-store marketing.
-Entrepreneur Media, Inc. – Marketing outreach, email campaigns, and special projects.
+🔍 Areas of Focus
+✔ Digital Marketing & SEO – Campaign management, Google Ads, social media growth, and SEO optimization.
+✔ eCommerce Strategy – Conversion optimization, product listing strategy, and platform operations.
+✔ Business Operations – Workflow automation, cross-functional support, and vendor management.
+✔ Analytics & Reporting – Performance tracking using Excel, Tableau, SQL (in progress), and VBA.
+✔ Brand Development – Visual identity, print collateral, and audience engagement.
 
-🔍 Areas of Expertise
-✔ Digital Marketing & SEO – Optimizing online presence through search ranking strategies.
-✔ E-Commerce & Business Growth – Scaling businesses through conversion-driven marketing.
-✔ Branding & Content Strategy – Establishing brand identity and developing high-impact content.
-✔ Operations & Process Optimization – Automating workflows and improving efficiency.
-✔ Event Planning & Marketing Outreach – Executing high-visibility campaigns and business events.
+📂 How to Navigate
+• Each portfolio is available as a downloadable PDF that outlines:
+• My role and scope of responsibilities
+• Key achievements and metrics
+• Tools and strategies used
 
-📂 How to Use This Repository
-Each portfolio is available as a PDF file, offering insights into my role, responsibilities, and achievements in each position. Feel free to browse and download to learn more about my work.
-
-📬 Connect with Me
-Interested in discussing career opportunities, marketing strategies, or business development? Let’s connect!
-
+📬  Let’s Connect
+For inquiries, collaboration, or opportunities in marketing, strategy, or analytics:
 [[🔗 LinkedIn Profile]](https://www.linkedin.com/in/jesusgermain/)  [[📧 E-Mail]](mailto:jesus.germain@gmail.com)
